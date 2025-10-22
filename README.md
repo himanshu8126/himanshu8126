@@ -10,3 +10,5 @@
 🧠 ChatGPT Prompt Engineering Expert – automation & AI for productivity.
 
 🛠️ I love converting raw data into actionable insights.
+
+<img align="right" alt="A professional photo of you working" width="400px" src="https://share.google/images/963NQ1f5bukE7z1nq" />
