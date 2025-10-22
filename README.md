@@ -1,8 +1,8 @@
 ## Hi there 👋,I'm Himanshu Lal
 
-<!--iidfm
+<!--
 **himanshu8126/himanshu8126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Data Analyst 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
